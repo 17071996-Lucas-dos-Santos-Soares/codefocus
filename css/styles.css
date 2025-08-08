@@ -83,7 +83,7 @@ li {
 
 #mainSlider .carousel-inner,
 #mainSlider .carousel-item {
-  height: 90vh;
+  height: 70vh;
 }
 
 #mainSlider .carousel-caption {
@@ -687,7 +687,10 @@ input.form-control {
   #portfolio-area .filter-btn {
     margin-bottom: 20px;
   }
-
+  .img-fluid{
+    width: 160px;
+    height: 160px;
+  }
   .project-box {
     width: 50%;
   }
